@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages Used By Me:
 
 <a href="https://cplusplus.com/">
-<img border="0" alt="C++" src="https://img.icons8.com/icon/40669/c%2B%2B"/>
+<img border="0" alt="C++" src=https://camo.githubusercontent.com/8b41d9e2462cc9942501f3fdd07191b1915674d0c640b3022455f47f38cd6a/68747470733a2f2f7777772e6e61766565646173686661712e6d652f696d672f632b2b2e706e67"/>
 </a>
 
 <a href="https://java.com/en/">
