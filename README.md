@@ -8,11 +8,11 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages Used By Me:
 
 <a href="https://cplusplus.com/">
-<img border="0" alt="C++" src="https://icons8.com/icon/40669/c%2B%2B"/>
+<img border="0" alt="C++" src="https://img.icons8.com/icon/40669/c%2B%2B"/>
 </a>
 
 <a href="https://java.com/en/">
-<img border="0" alt="Java" src="https://icons8.com/icon/13679/java"/>
+<img border="0" alt="Java" src="https://img.icons8.com/icon/13679/java"/>
 </a>
 
 <a href="https://www.javascript.com/">
@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://www.typescriptlang.org/">
-<img border="0" alt="TypeScript" src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/>
+<img border="0" alt="TypeScript" src="https://img.icons8.com/icon/uJM6fQYqDaZK/typescript"/>
 </a>
 
 <a href="https://html.com/#What_is_HTML">
