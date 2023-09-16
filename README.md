@@ -7,34 +7,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Programming Languages Used By Me:
 
-<a href="https://cplusplus.com/">
-<img border="0" alt="C++" src=https://camo.githubusercontent.com/8b41d9e2462cc9942501f3fdd07191b1915674d0c640b3022455f47f38cd6a/68747470733a2f2f7777772e6e61766565646173686661712e6d652f696d672f632b2b2e706e67"/>
-</a>
-
-<a href="https://java.com/en/">
-<img border="0" alt="Java" src="https://img.icons8.com/icon/13679/java"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img border="0" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img border="0" alt="TypeScript" src="https://img.icons8.com/icon/uJM6fQYqDaZK/typescript"/>
-</a>
-
-<a href="https://html.com/#What_is_HTML">
-<img border="0" alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/CSS">
-<img border="0" alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-</a>
-
-<a href="https://www.python.org/">
-<img border="0" alt="Python" src="https://img.icons8.com/color//000000/python--v2.png"/>
-</a>
-
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 </br>
