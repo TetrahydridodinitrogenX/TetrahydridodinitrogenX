@@ -1,7 +1,7 @@
 ### 🌙✨ Heya, I'm Tetra ✨🌙
 
 - 👨‍💻 I’ve got experience in C++, Java, JS, HTML, CSS, Arduino and Python.
-- 🎮 I play a lot of Destiny 2 at the moment.
+- 🎮 I play a lot of random shenanigans.
 - 🌙 Most of my repositories are privated.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools I Use:
