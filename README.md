@@ -1,6 +1,6 @@
 ### 🌙✨ Heya, I'm Tetra ✨🌙
 
-- 👨‍💻 I’ve got experience in C++, Java, JS, HTML, CSS, Arduino and Python.
+- 👨‍💻 I’ve got experience in C++, Java, JS, HTML, CSS, Arduino, Python, and Assembly.
 - 🎮 I play a lot of random shenanigans.
 - 🌙 Most of my repositories are privated.
 
